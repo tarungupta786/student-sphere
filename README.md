@@ -5,15 +5,15 @@ The **Student-Sphere** is a centralized web-based platform designed to help stud
 
 It provides essential tools to track **CGPA, attendance, documents, tasks, expenses, and goals**, ensuring students stay organized, informed, and consistent throughout their academic journey.
 
-## 🚀 Features
+#  Features
 
-### 📊 CGPA & Attendance Management
+#  CGPA & Attendance Management
 
 * Calculate SGPA and CGPA based on subject-wise marks
 * Track subject-wise attendance percentage
 * Determine eligibility based on required attendance criteria
 
-# 📁 Document Management
+#  Document Management
 
 * Securely upload and store important documents
   * ID cards
@@ -21,24 +21,24 @@ It provides essential tools to track **CGPA, attendance, documents, tasks, expen
   * Certificates
 * Easy access and organization of academic records
 
-# 📝 Daily To-Do List
+#  Daily To-Do List
 
 * Create and manage daily tasks
 * Mark tasks as completed
 
-# 💸 Expense Tracker
+#  Expense Tracker
 
 * Record daily expenses
 * Categorize spending (Food, Travel, etc.)
 * Track daily and monthly expenses
 
-# 🎯 Goal Tracker
+#  Goal Tracker
 
 * Set academic or personal goals
 * Define targets and deadlines
 * Track progress and completion status
 
-# 📊 Dashboard
+#  Dashboard
 
 * Centralized overview of:
   * CGPA
@@ -49,18 +49,18 @@ It provides essential tools to track **CGPA, attendance, documents, tasks, expen
 * Helps students quickly understand their current status
 
 
-## 🎯 Objective
+#  Objective
 
 The goal of this project is to provide students with a **simple, structured, and efficient system** to manage both academic and daily activities, reducing the need for multiple tools and improving overall productivity.
 
 
-## 🧰 Tech Stack
+#  Tech Stack
 
 * **Frontend:** React
 * **Backend:** Django REST Framework
 * **Database:** MySQL
 * **core language** python
 
-## 📌 Conclusion
+#  Conclusion
 
 This system acts as a **personal academic and productivity companion**, helping students stay organized, track their progress, and manage their daily responsibilities effectively.
