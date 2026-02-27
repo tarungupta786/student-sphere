@@ -1,19 +1,66 @@
-StudentSphere
+ # Student-Sphere
 
-Overview:
-StudentSphere is a unified platform designed to simplify how students manage academics and daily activities. It integrates performance tracking, document management, and productivity tools into a single, structured system.
+ # Overview
+The **Student-Sphere** is a centralized web-based platform designed to help students efficiently manage their academic performance and daily productivity in one place.
 
- 
-Features
-* CGPA calculation and attendance tracking with eligibility status
-* Secure storage for academic documents
-* Daily task management with priority tracking
-* Expense tracking with categorized records
-* Goal setting with progress monitoring
-* Central dashboard for a quick overview of all activities
+It provides essential tools to track **CGPA, attendance, documents, tasks, expenses, and goals**, ensuring students stay organized, informed, and consistent throughout their academic journey.
 
-Objective:
-To provide students with a reliable and efficient system for organizing academic data and managing day-to-day responsibilities in one place.
+## 🚀 Features
 
-Tech Stack:
-React • Django REST Framework • MySQL • Cloud Storage
+### 📊 CGPA & Attendance Management
+
+* Calculate SGPA and CGPA based on subject-wise marks
+* Track subject-wise attendance percentage
+* Determine eligibility based on required attendance criteria
+
+# 📁 Document Management
+
+* Securely upload and store important documents
+  * ID cards
+  * Marksheets
+  * Certificates
+* Easy access and organization of academic records
+
+# 📝 Daily To-Do List
+
+* Create and manage daily tasks
+* Mark tasks as completed
+
+# 💸 Expense Tracker
+
+* Record daily expenses
+* Categorize spending (Food, Travel, etc.)
+* Track daily and monthly expenses
+
+# 🎯 Goal Tracker
+
+* Set academic or personal goals
+* Define targets and deadlines
+* Track progress and completion status
+
+# 📊 Dashboard
+
+* Centralized overview of:
+  * CGPA
+  * Attendance
+  * Daily tasks
+  * Expenses
+  * Goals
+* Helps students quickly understand their current status
+
+
+## 🎯 Objective
+
+The goal of this project is to provide students with a **simple, structured, and efficient system** to manage both academic and daily activities, reducing the need for multiple tools and improving overall productivity.
+
+
+## 🧰 Tech Stack
+
+* **Frontend:** React
+* **Backend:** Django REST Framework
+* **Database:** MySQL
+* **core language** python
+
+## 📌 Conclusion
+
+This system acts as a **personal academic and productivity companion**, helping students stay organized, track their progress, and manage their daily responsibilities effectively.
